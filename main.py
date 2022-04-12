@@ -16,3 +16,5 @@ if __name__ == '__main__':
 
 
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
+
+# 在进行工程的修改之前要先把工程从GitHub上pull到pycharm上
